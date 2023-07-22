@@ -25,7 +25,7 @@ An awesome list of Cool AI tools and toys!
 
 ## Contents
 
-- [Featured](#featured-new-releases)
+- [Featured](#featured)
 - [Social Media](#social-media)
 
 <!-- CONTENT -->
@@ -37,12 +37,11 @@ An awesome list of Cool AI tools and toys!
 <!-- END CONTENT -->
 
 ## Social Media
-#### People and places that talk about AI
-
-
+People and places that talk about AI
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
+- [(REVOLT) AI Enthusiasts](https://rvlt.gg/Nf3Fm1q9) 
+- [(MATRIX) AI Enthusiasts](https://matrix.to/#/#ai-enthusiasts:matrix.calitabby.com) 
 
-Who else should we be following!?
 
 ## Contributing
 
