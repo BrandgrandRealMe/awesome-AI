@@ -4,7 +4,8 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/BrandgrandRealMe/awesome-AI/actions/workflows/lint.yaml/badge.svg)](https://github.com/BrandgrandRealMe/awesome-AI/actions/workflows/lint.yaml)
+# Awesome AI 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/BrandgrandRealMe/awesome-AI/actions/workflows/lint.yaml/badge.svg)](https://github.com/BrandgrandRealMe/awesome-AI/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
