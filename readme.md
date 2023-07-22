@@ -13,7 +13,7 @@ An awesome list of Cool AI tools and toys!
 <!-- image -->
 
 <a href="" target="_blank" rel="noopener noreferrer">
-  <img src="" />
+  <img width="20%" src="https://i.ibb.co/mRyjN9F/AIlogo.png" />
 </a>
 
 <!-- description -->
@@ -26,17 +26,19 @@ An awesome list of Cool AI tools and toys!
 ## Contents
 
 - [Featured](#featured-new-releases)
-- [Follow](#follow)
+- [Social Media](#social-media)
 
 <!-- CONTENT -->
 
-## Featured (new releases)
+## Featured
 
-- [Apple](https://apple.com) - Apple as a placeholder.
+- [you.com](https://you.com) - You.com is a AI powered search engine.
 
 <!-- END CONTENT -->
 
-## Follow
+## Social Media
+#### People and places that talk about AI
+
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
@@ -48,4 +50,8 @@ Who else should we be following!?
 
 ### Contributors
 
-[Thanks goes to these contributors](https://github.com/BrandgrandRealMe/awesome-AI/graphs/contributors)!
+Thanks goes to these contributors
+
+<a href="https://github.com/BrandgrandRealMe/awesome-AI/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=BrandgrandRealMe/awesome-AI" />
+</a>
