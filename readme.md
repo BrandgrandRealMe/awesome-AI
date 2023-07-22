@@ -39,10 +39,10 @@ An awesome list of Cool AI tools and toys!
 - [you.com](https://you.com) - You.com is a AI powered search engine.
 
 ## Text Generation
-(gpt4all)[https://gpt4all.io/index.html] - A free-to-use, locally running, privacy-aware ChatGPT.
-(Ora.ai)[https://ora.ai] A web platform where you can quickly build LLM apps in a shareable chat interface.
+- [gpt4all](https://gpt4all.io/index.html) - A free-to-use, locally running, privacy-aware ChatGPT.
+- [Ora.ai](https://ora.ai) - A web platform where you can quickly build LLM apps in a shareable chat interface.
 ## Image Generation
-(CivitAI)[https://civitai.com/] Browse, share, and review custom AI art models.
+- [CivitAI](https://civitai.com/) - Browse, share, and review custom AI art models.
 
 <!-- END CONTENT -->
 
