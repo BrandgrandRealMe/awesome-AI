@@ -43,6 +43,12 @@ An awesome list of Cool AI tools and toys!
 - [Ora.ai](https://ora.ai) - A web platform where you can quickly build LLM apps in a shareable chat interface.
 ## Image Generation
 - [CivitAI](https://civitai.com/) - Browse, share, and review custom AI art models.
+- [diffusionbee](https://diffusionbee.com/) - Create Images offline!
+## TEXT TO VIDEO 
+- [runwayml](https://runwayml.com/) - Generate videos using text. 
+
+## Misc.
+- [blockadelabs skybox](https://skybox.blockadelabs.com) - Create AI generated 360 skyboxes.
 
 <!-- END CONTENT -->
 
