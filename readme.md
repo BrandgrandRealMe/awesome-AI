@@ -59,7 +59,7 @@ People and places that talk about AI
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 - [(REVOLT) AI Enthusiasts](https://rvlt.gg/Nf3Fm1q9) 
 - [(MATRIX) AI Enthusiasts](https://matrix.to/#/#ai-enthusiasts:matrix.calitabby.com)
-- [(LEMMY) Awesome AI]([https://lemmy.world/c/ai_art](https://lemmy.world/c/awesomeai))
+- [(LEMMY) Awesome AI](https://lemmy.world/c/awesomeai)
 - [(LEMMY) AI Art & Image Generation](https://lemmy.world/c/ai_art)
 - [(LEMMY) ChatGPT](https://lemmy.world/c/chatgpt)
 
