@@ -51,6 +51,9 @@ Subscribe to our [Lemmy Community](https://lemmy.world/c/awesomeai)
 
 ## Misc.
 - [blockadelabs skybox](https://skybox.blockadelabs.com) - Create AI generated 360 skyboxes.
+- [Kdenlive](https://kdenlive.org/en/) - Video editor with AI features.
+- [Spleeter](https://github.com/Deezer/spleeter) – Splice music into tracks.
+- [Final 2x](https://github.com/Tohrusky/Final2x) – Enlarge image sizes.
 
 <!-- END CONTENT -->
 
