@@ -65,7 +65,7 @@ People and places that talk about AI
 - [(LEMMY) Awesome AI](https://lemmy.world/c/awesomeai)
 - [(LEMMY) AI Art & Image Generation](https://lemmy.world/c/ai_art)
 - [(LEMMY) ChatGPT](https://lemmy.world/c/chatgpt)
-
+- [(NEWSLETTER) AI Tool Report](https://aitoolreport.beehiiv.com/subscribe?ref=iyF1FYmWAO)
 
 ## Contributing
 
